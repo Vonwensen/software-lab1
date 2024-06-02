@@ -1,0 +1,8 @@
+explore -> strange
+strange -> new
+new -> civilizations
+civilizations -> to
+to -> have
+have -> a
+a -> good
+good -> time
